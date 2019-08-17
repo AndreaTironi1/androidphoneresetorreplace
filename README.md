@@ -1,6 +1,6 @@
 # Smartphone Android Reset o Nuovo Acquisto
 
-Tempo richiesto circa 90 minuti.
+Tempo richiesto circa 120 minuti.
 
 ## Operazioni preliminari
 
@@ -44,5 +44,8 @@ Cosa copiare:
 * non attivare samsung account
 * il ripristino della app, dei contatti, dei messaggi viene effettuato da solo
 * ripristinare le icone in homepage e nella seconda homepage nelle posizioni corrette
-* provare ad aprire tutte le app di uso comune (quelle in home e nella seconda homepage)
+* provare ad aprire tutte le app di uso comune (quelle in home e nella seconda homepage) e sincronizzare i contenuti
+* per inserire un contatto in schermata home, andare sul widget corrispondente
+* far provare ad utente finale
+* ricaricare i dati eventualmente copiati sul pc
 
