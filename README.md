@@ -26,6 +26,7 @@ Cosa copiare:
 * Spegnere il telefono ed avviarlo premente volume up, power, tasto menù.
 * Nel menù scegliere wipe data e confermare.
 * Riavviare il telefono.
+* Il telefono ci mette qualche minuto a ripartire.
 
 ## Ricaricare i dati
 
