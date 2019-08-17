@@ -12,7 +12,8 @@ Cosa copiare:
 
 * contatti (verificare il numero prima di salvare): installare app [contatti](https://play.google.com/store/apps/details?id=com.google.android.contacts&hl=it) di google e fare un backup da gmail nei contatti di google
 * sms: per fare la copia utilizzare [sms backup e restore app](https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore&hl=it) (che salva in gdrive)
-* fare un backup completo del sistema in gdrive
+* fare un backup completo dello smarthphone in gdrive andando inbackup/restore
+* fare il backup di whatsapp su gdrive
 * copiare le cartelle contenute in DCIM 
 * copiare cartella telegram 
 * copiare cartella whatsapp 
@@ -20,7 +21,6 @@ Cosa copiare:
 * copiare cartella music 
 * copiare cartella samsung 
 * copiare qualsiasi cartella ci sia in phone (memoria interna) che si ritiene utile che non sia una di quelle sopra
-* fare il backup di whatsapp su gdrive
 * tutto quanto copiato sul pc, salvarlo in gdrive
 
 ## Effettuare il Reset
@@ -33,7 +33,7 @@ Cosa copiare:
 
 ## Ricaricare i dati
 
-* il telefono chiede se collegarsi al pc per il recupero dati dopo il wipe (da approfondire la prossima volta, per ora salvato tuto in gdrive)
+* il telefono chiede se collegarsi al pc per il recupero dati dopo il wipe (da approfondire la prossima volta il caricamento da pc, per ora salvato tuto in gdrive)
 * inserire password wifi
 * tracciare segno o pin corrente
 * inserire dati account gmail
