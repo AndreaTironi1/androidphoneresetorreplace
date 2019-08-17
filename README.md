@@ -2,6 +2,8 @@
 
 Tempo richiesto circa 120 minuti.
 
+La procedura vale sia per il passaggio dati da vecchio a nuovo telefono android che per il reset di un singolo telefono.
+
 ## Operazioni preliminari
 
 Collegare il telefono al computer.
