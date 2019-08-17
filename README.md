@@ -1,5 +1,7 @@
 # Smartphone Android Reset o Nuovo Acquisto
 
+Tempo richiesto circa 90 minuti.
+
 ## Operazioni preliminari
 
 Collegare il telefono al computer.
@@ -18,6 +20,7 @@ Cosa copiare:
 * copiare cartella music 
 * copiare cartella samsung 
 * copiare qualsiasi cartella ci sia in phone (memoria interna) che si ritiene utile che non sia una di quelle sopra
+* fare il backup di whatsapp su gdrive
 * tutto quanto copiato sul pc, salvarlo in gdrive
 
 ## Effettuare il Reset
@@ -30,4 +33,16 @@ Cosa copiare:
 
 ## Ricaricare i dati
 
+* il telefono chiede se collegarsi al pc per il recupero dati dopo il wipe (da approfondire la prossima volta, per ora salvato tuto in gdrive)
+* inserire password wifi
+* tracciare segno o pin corrente
+* inserire dati account gmail
+* scegliere il backup da cui fare il restore dati
+* scegliere cosa restorare (tutto)
+* scegliere segno per accesso
+* disattivare assistente google
+* non attivare samsung account
+* il ripristino della app, dei contatti, dei messaggi viene effettuato da solo
+* ripristinare le icone in homepage e nella seconda homepage nelle posizioni corrette
+* provare ad aprire tutte le app di uso comune (quelle in home e nella seconda homepage)
 
