@@ -1,4 +1,4 @@
-# Telefono Android Reset o Nuovo Acquisto
+# Smartphone Android Reset o Nuovo Acquisto
 
 ## Operazioni preliminari
 
