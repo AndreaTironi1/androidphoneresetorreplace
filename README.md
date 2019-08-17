@@ -10,7 +10,7 @@ Assicurarsi di avere username e password dell'account google.
 
 Cosa copiare:
 
-* contatti : installare app [contatti](https://play.google.com/store/apps/details?id=com.google.android.contacts&hl=it) di google e fare un backup da gmail nei contatti di google
+* contatti (verificare il numero prima di salvare): installare app [contatti](https://play.google.com/store/apps/details?id=com.google.android.contacts&hl=it) di google e fare un backup da gmail nei contatti di google
 * sms: per fare la copia utilizzare [sms backup e restore app](https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore&hl=it) (che salva in gdrive)
 * fare un backup completo del sistema in gdrive
 * copiare le cartelle contenute in DCIM 
@@ -43,9 +43,13 @@ Cosa copiare:
 * disattivare assistente google
 * non attivare samsung account
 * il ripristino della app, dei contatti, dei messaggi viene effettuato da solo
+* verificare che numero contatti sia ok
 * ripristinare le icone in homepage e nella seconda homepage nelle posizioni corrette
 * provare ad aprire tutte le app di uso comune (quelle in home e nella seconda homepage) e sincronizzare i contenuti
 * per inserire un contatto in schermata home, andare sul widget corrispondente
+* ripristinare suoneria per i contatti nella home (si va sul singolo contatto e in maggiori dettagli si può scegliere)
+* ripristinare la suoneria per tutti i contatti 
 * far provare ad utente finale
-* ricaricare i dati eventualmente copiati sul pc
+* ricaricare i dati eventualmente copiati sul pc (dcim di solito, niente altro)
+
 
