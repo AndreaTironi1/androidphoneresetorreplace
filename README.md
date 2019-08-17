@@ -46,7 +46,7 @@ Cosa copiare:
 * verificare che numero contatti sia ok
 * ripristinare le icone in homepage e nella seconda homepage nelle posizioni corrette
 * provare ad aprire tutte le app di uso comune (quelle in home e nella seconda homepage) e sincronizzare i contenuti
-* per inserire un contatto in schermata home, andare sul widget corrispondente
+* per inserire un contatto in schermata home, andare sul widget corrispondente (direct dial non contact sotto rubrica)
 * ripristinare suoneria per i contatti nella home (si va sul singolo contatto e in maggiori dettagli si può scegliere)
 * ripristinare la suoneria per tutti i contatti 
 * far provare ad utente finale
